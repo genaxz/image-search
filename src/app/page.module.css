@@ -1,0 +1,27 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.noMore {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #aaa;
+}
+
+.appTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #00ccff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background: #4a90e2;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
